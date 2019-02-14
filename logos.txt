@@ -1,0 +1,1 @@
+{"gitlab-dark.jpg": "https://i.imgur.com/CHZOKrO.jpg", "github-dark.png": "https://i.imgur.com/U9qR6Nx.png", "bitbucket-light.png": "https://i.imgur.com/nO4Z2T0.png"}
